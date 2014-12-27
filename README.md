@@ -11,21 +11,20 @@ iv) How things have changed after additional traffic management people have been
 
 <b>Available Resources for Data Collection:- </b>
 
-Facebook pages of traffic police : link to those pages are:-<br/>
+1)Facebook pages of traffic police : link to those pages are:-<br/>
 i)Bangalore - https://www.facebook.com/BangaloreTrafficPolice<br/>
 ii)Chennai - https://www.facebook.com/chennaitrafficpolice<br/>
 iii)Kolkata - https://www.facebook.com/KolkataTrafficPolice<br/>
 iv)NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308 <br/>
 
 
-<b>Twitter pages and keyword search in twitter.</b>
-Traffline. (http://www.traffline.com/)
-Timetable of Trains:- API is available for that. (http://livetrainstatusapi.com/)
-WhatsApp group:- Create a whatsApp group where users will send live traffic information with their locations.
-From DTC buses and traffic around ISBT.
-From Delhi metro ridership data if available.
-Traffic Information from various FM channels if there is any way to get it.
-Note:- additional resources can be added.
+2)Twitter pages and keyword search in twitter.<br/>
+3)Traffline. (http://www.traffline.com/)<br/>
+4)Timetable of Trains:- API is available for that. http://api.erail.in/stations/?key=dd944ba6-693b-4e73-b365-3d3ea1d3208f)<br/>
+5)From DTC buses and traffic around ISBT.<br/>
+6)From Delhi metro ridership data if available.<br/>
+7)Traffic Information from various FM channels if there is any way to get it.<br/>
+<b>Note:- additional resources can be added.</b><br/>
 
 
 
