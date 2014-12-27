@@ -20,7 +20,7 @@ iv)NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308 
 
 2)Twitter pages and keyword search in twitter.<br/>
 3)Traffline. (http://www.traffline.com/)<br/>
-4)Timetable of Trains:- API is available for that. http://api.erail.in/stations/?key=dd944ba6-693b-4e73-b365-3d3ea1d3208f)<br/>
+4)Timetable of Trains:- API is available for that.( http://api.erail.in/stations/?key=##)<br/>
 5)From DTC buses and traffic around ISBT.<br/>
 6)From Delhi metro ridership data if available.<br/>
 7)Traffic Information from various FM channels if there is any way to get it.<br/>
@@ -28,27 +28,27 @@ iv)NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308 
 
 
 
-TO DO list (Need to start on all these before 8th ) :-
+<b>TO DO list :-</b>
 
-Get data from all the publicly available resources like twitter, facebook.
+1)Get data from all the publicly available resources like twitter, facebook.
 Make a list of what features are available and list them.
-What other information can be extracted from this list?
+What other information can be extracted from this list?<br/>
 2). Start with mapping.
 Get arrival and departure time of trains at major stations.
-Use NLP to get Location from whatever data we have.
+Use NLP to get Location from whatever data we have.<br/>
 
-Keywords & Hashtags Used in Twitter for Delhi:-
+<b>Keywords & Hashtags Used in Twitter for Delhi:-</b>
 
-Delhi traffic 
-https://twitter.com/TrafflineDEL(TrafflineDEL) 
-dtptraffic
-TrafficDEL
-DelhiTrafficPol
-avoid traffic delhi
-Breakdown delhi traffic
-#trafficblues
-#traffline
-#StreetSmartWithTraffline
+i)Delhi traffic<br/> 
+ii)https://twitter.com/TrafflineDEL(TrafflineDEL)<br/> 
+iii)dtptraffic<br/>
+iv)TrafficDEL<br/>
+v)DelhiTrafficPol<br/>
+vi)avoid traffic delhi<br/>
+vii)Breakdown delhi traffic<br/>
+viii)#trafficblues</br>
+ix)#traffline</br>
+x)#StreetSmartWithTraffline</br>
 #delhi #TRAFFICALERT
 #delhi #traffic
 #delhi traffic
