@@ -40,7 +40,7 @@ Use NLP to get Location from whatever data we have.
 
 Keywords & Hashtags Used in Twitter for Delhi:-
 
-Delhi traffic
+Delhi traffic 
 https://twitter.com/TrafflineDEL(TrafflineDEL) 
 dtptraffic
 TrafficDEL
@@ -55,7 +55,18 @@ Breakdown delhi traffic
 #delhi traffic
 
 Keywords & Hashtags Used in Twitter for Mumbai:-
-Will update by tomorrow :)
+Mumbai traffic
+@TrafflineMUM
+TrafficMum
+MumbaiTrafficPol
+avoid traffic Mumbai
+Breakdown Mumbai traffic
+@smart_mumbaikar
+@TrafficBOM
+#StreetSmartWithTraffline mumbai
+#mumbai #TRAFFICALERT 
+#mumbai #TRAFFIC
+
 
 
 New Additions:-
