@@ -18,7 +18,7 @@ iii)Kolkata - https://www.facebook.com/KolkataTrafficPolice<br/>
 iv)NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308 <br/>
 
 
-Twitter pages and keyword search in twitter.
+<b>Twitter pages and keyword search in twitter.</b>
 Traffline. (http://www.traffline.com/)
 Timetable of Trains:- API is available for that. (http://livetrainstatusapi.com/)
 WhatsApp group:- Create a whatsApp group where users will send live traffic information with their locations.
