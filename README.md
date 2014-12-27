@@ -78,9 +78,7 @@ ii) For mumbai and bangalore google transit feed data is available and we have a
 
 iii)  We have train data and frequencies of trains at all major stations of new delhi. We need to figure out what we can do with that data.<br/>
 
-iv) We should put all our code on github. I will create a new repository in github and add everyone as contributor so that all of us can access the code and can put their work as well.<br/>
-
-v) Sudeep bhaiya has already proposed an algorithm We can spent some time discussing  that 
+iv) Sudeep  has already proposed an algorithm We can spent some time discussing  that 
 as well, To me this approach looks promising but to apply that approach we need data of at least one week.<br/>
 
 
