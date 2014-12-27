@@ -46,49 +46,47 @@ iv)TrafficDEL<br/>
 v)DelhiTrafficPol<br/>
 vi)avoid traffic delhi<br/>
 vii)Breakdown delhi traffic<br/>
-viii)#trafficblues</br>
-ix)#traffline</br>
-x)#StreetSmartWithTraffline</br>
-#delhi #TRAFFICALERT
-#delhi #traffic
-#delhi traffic
+viii)#trafficblues<br/>
+ix)#traffline<br/>
+x)#StreetSmartWithTraffline<br/>
+#delhi #TRAFFICALERT<br/>
+#delhi #traffic<br/>
+#delhi traffic<br/>
 
-Keywords & Hashtags Used in Twitter for Mumbai:-
-Mumbai traffic
-@TrafflineMUM
-TrafficMum
-MumbaiTrafficPol
-avoid traffic Mumbai
-Breakdown Mumbai traffic
-@smart_mumbaikar
-@TrafficBOM
-#StreetSmartWithTraffline mumbai
-#mumbai #TRAFFICALERT 
-#mumbai #TRAFFIC
+<b>Keywords & Hashtags Used in Twitter for Mumbai:-</b>
+i)Mumbai traffic<br/>
+ii)@TrafflineMUM<br/>
+iii)TrafficMum<br/>
+iv)MumbaiTrafficPol<br/>
+v)avoid traffic Mumbai<br/>
+vi)Breakdown Mumbai traffic<br/>
+vii)@smart_mumbaikar<br/>
+viii)@TrafficBOM<br/>
+ix)#StreetSmartWithTraffline mumbai<ix>
+x)#mumbai #TRAFFICALERT<br/> 
+xi)#mumbai #TRAFFIC<br/>
 
+<b>New Additions:-</b>
 
-
-New Additions:-
-
-i) As whatsApp and Google hangout are not our Options anymore, we are using YO app for getting Coordinates of user. Working of Yo app is simple, with only a single touch only a YO is received and with a double touch we will get Location of user as well.
-We have already configured Yo app for our purpose, Now We can get Users location whenever he sends a Yo for index we have created called TRAFFICUPDATE.
-Now the question is what should we return to the user ?
+i) As whatsApp and Google hangout are not our Options anymore, we are using YO app for getting Coordinates of user. Working of Yo app is simple, with only a single touch only a YO is received and with a double touch we will get Location of user as well.<br/>
+We have already configured Yo app for our purpose, Now We can get Users location whenever he sends a Yo for index we have created called TRAFFICUPDATE.<br/>
+Now the question is what should we return to the user ?<br/>
 One thing that I have in mind is that whenever a single tab we can interpret it as “User is asking for traffic information so we can return user a link that contains all the locations he should avoid”.
-and whenever user double touches then we will get the location and can map it to show traffic jam.
+and whenever user double touches then we will get the location and can map it to show traffic jam.<br/>
 
-ii) For mumbai and bangalore google transit feed data is available and we have already used that data to map bus routes also we have collected around 700-800 points which are at a distance of 0.75-1.25km . As soon as we get the server access we can run our scripts to collect traffic information between these points. But we are still facing some problems to map bus routes of delhi as google transit feed data is not available and google geocode api is not giving desired results.  So now we need to identify those places for which GEOCODE api is not working and will have to map them manually.
+ii) For mumbai and bangalore google transit feed data is available and we have already used that data to map bus routes also we have collected around 700-800 points which are at a distance of 0.75-1.25km . As soon as we get the server access we can run our scripts to collect traffic information between these points. But we are still facing some problems to map bus routes of delhi as google transit feed data is not available and google geocode api is not giving desired results.  So now we need to identify those places for which GEOCODE api is not working and will have to map them manually.<br/>
 
-iii)  We have train data and frequencies of trains at all major stations of new delhi. We need to figure out what we can do with that data.
+iii)  We have train data and frequencies of trains at all major stations of new delhi. We need to figure out what we can do with that data.<br/>
 
-iv) We should put all our code on github. I will create a new repository in github and add everyone as contributor so that all of us can access the code and can put their work as well.
+iv) We should put all our code on github. I will create a new repository in github and add everyone as contributor so that all of us can access the code and can put their work as well.<br/>
 
 v) Sudeep bhaiya has already proposed an algorithm We can spent some time discussing  that 
-as well, To me this approach looks promising but to apply that approach we need data of at least one week.
+as well, To me this approach looks promising but to apply that approach we need data of at least one week.<br/>
 
 
-Proposed Methodology
+<b>Proposed Methodology:-</b>
 
-Extract 10 days of data from the publicly available sources which list places where a traffic jam has occurred. 
-From the extracted data perform a clustering process to get the places and convert them into lat, long. Mark these places on the map and locate nearby bus stations. Also apply the process to sub-clusters so found till you can no longer get new/distinct places.
-For all permitted directions for each identified bus station, locate more bus stops with help of bing api where congestion is detected upto a radius of say 10Km
-For all places where congestion is detected, recursively apply the approach from step 3.
+i)Extract 10 days of data from the publicly available sources which list places where a traffic jam has occurred. <br/>
+ii)From the extracted data perform a clustering process to get the places and convert them into lat, long. Mark these places on the map and locate nearby bus stations. Also apply the process to sub-clusters so found till you can no longer get new/distinct places.<br/>
+iii)For all permitted directions for each identified bus station, locate more bus stops with help of bing api where congestion is detected upto a radius of say 10Km.<br/>
+iv)For all places where congestion is detected, recursively apply the approach from step 3.<br/>
