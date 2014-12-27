@@ -1,21 +1,21 @@
 TrafficUpdate
 =============
-Strategy and To Do List for CODS 2015 Research Challenge
+<b>Strategy and To Do List for CODS 2015 Research Challenge</b>
 
 
-Objective:- Design an application which can give real insights from the fast flowing streaming data. we need to figure out following things:-
-i)  We need to check whether Facebook or twitter data is providing some relevant info or not.Actually This is the objective part of CODS challenge.
-ii) Which areas are facing severe traffic problems.
-iii) What are the most pressing traffic related problems citizens in different cities are complaining about (e.g. wrong_parking, heavy_vehicles, auto_refusal etc.).
-iv) How things have changed after additional traffic management people have been introduced across cities last month and so on.
+<b>Objective:-</b> Design an application which can give real insights from the fast flowing streaming data. we need to figure out following things:-<br/>
+i)  We need to check whether Facebook or twitter data is providing some relevant info or not.Actually This is the objective part of CODS challenge.<br/>
+ii) Which areas are facing severe traffic problems.<br/>
+iii) What are the most pressing traffic related problems citizens in different cities are complaining about (e.g. wrong_parking, heavy_vehicles, auto_refusal etc)<br/>
+iv) How things have changed after additional traffic management people have been introduced across cities last month and so on.<br/>
 
-Available Resources for Data Collection:- 
+<b>Available Resources for Data Collection:- </b>
 
-Facebook pages of traffic police : link to those pages are:-
-Bangalore - https://www.facebook.com/BangaloreTrafficPolice
-Chennai - https://www.facebook.com/chennaitrafficpolice
-Kolkata - https://www.facebook.com/KolkataTrafficPolice
-NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308
+Facebook pages of traffic police : link to those pages are:-<br/>
+i)Bangalore - https://www.facebook.com/BangaloreTrafficPolice<br/>
+ii)Chennai - https://www.facebook.com/chennaitrafficpolice<br/>
+iii)Kolkata - https://www.facebook.com/KolkataTrafficPolice<br/>
+iv)NewDelhi- https://www.facebook.com/pages/Delhi-TrafficPolice/117817371573308 <br/>
 
 
 Twitter pages and keyword search in twitter.
